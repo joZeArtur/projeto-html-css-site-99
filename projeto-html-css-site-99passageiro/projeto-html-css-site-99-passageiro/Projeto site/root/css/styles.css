@@ -317,10 +317,10 @@ li a{
 
 .didi{
     font-weight: 600;
-	font-size: 1rem;
-	line-height: 1.5rem;
-	color: #FF7B1C;
-	text-decoration: none;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: #FF7B1C;
+    text-decoration: none;
 }
 
 .box-termos{
@@ -328,7 +328,7 @@ li a{
 }
 
 .termos a:hover {
-	color: #E45D01;
+    color: #E45D01;
 }
 
 .termos,.termos a{
